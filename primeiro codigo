@@ -1,0 +1,10 @@
+algoritmo "primeiro"
+var
+ msg: caractere
+ msg2: caractere
+inicio
+  msg<-"Ola, mundo!"
+  msg2<-"Me livrei da maldição!"
+  escreval("mensagem ",msg)
+  escreva(msg2)
+fimalgoritmo
